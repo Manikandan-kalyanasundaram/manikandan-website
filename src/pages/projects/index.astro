@@ -1,0 +1,11 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import { PROJECTS } from "@/consts";
+import ProjectShowcase from "@/components/project-showcase.astro";
+---
+
+<Layout title={PROJECTS.TITLE} description={PROJECTS.DESCRIPTION}>
+    <div class="">
+        <ProjectShowcase />
+    </div>
+</Layout>
