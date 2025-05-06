@@ -5,7 +5,7 @@ export const SITE: Site = {
     EMAIL: "manikandanvisualdesigner@gmail.com",
     NUM_POSTS_ON_HOMEPAGE: 3,
     NUM_WORKS_ON_HOMEPAGE: 3,
-    NUM_PROJECTS_ON_HOMEPAGE: 2,
+    NUM_PROJECTS_ON_HOMEPAGE: 1,
 };
 
 export const HOME: Metadata = {
@@ -52,9 +52,4 @@ export const SOCIALS: Socials = [
         NAME: "dribble",
         HREF: "https://dribble.com/Manikandan_Kalyanasundaram",
     },
-    {
-        NAME: "Medium",
-        HREF: "https://medium.com/@lakshmanashankrc",
-    },
-  
 ];

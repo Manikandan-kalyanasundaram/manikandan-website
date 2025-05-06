@@ -9,7 +9,7 @@ const newPosts = posts.filter((post) => {
         countProjects++;
     }
     return !post.data.draft && countProjects <= SITE.NUM_WORKS_ON_HOMEPAGE;
-});
+}).slice(SITE.NUM_PROJECTS_ON_HOMEPAGE)
 
 type Props = {
     obeyCount?: boolean;
@@ -22,6 +22,7 @@ const renderProjects = obeyCount ? newPosts : posts;
     <h3>Projects</h3>
     {
         renderProjects.map((post) => (
+
             <a
                 href={`/projects/${post.id}`}
                 class="post-item block p-1 my-2 px-3 no-underline rounded-lg hover:transition-all hover:dark:bg-neutral-800 relative group border border-stone-400 dark:border-neutral-800"
