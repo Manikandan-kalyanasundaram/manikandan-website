@@ -7,19 +7,19 @@ dateStart: "06/05/2023"
 dateEnd: "05/05/2025"
 ---
 
+## Projects worked
 
-## Bullet 
+<a href="http://bullet.so">Bullet.so</a>
 
 A powerful and **customizable** blogging platform designed for startups and indie hackers.
-A powerful and **** blogging platform designed for startups and indie hackers.
-It helps users create fast, SEO-friendly blogs with Notion-style editing and minimal setup.
+It helps users create fast, **SEO-friendly websites** with Notion-style editing and minimal setup.
 
-## Disbug 
+<a href="http://disbug.io">Disbug.io</a>
 
-A developer-friendly bug reporting tool that lets users record screen, annotate issues, and share detailed bug reports instantly.
+A developer-friendly bug reporting tool that lets users **record screen, annotate issues, and share detailed bug reports** instantly.
 It streamlines communication between QA, developers, and designers.
 
-## Focuzed 
+<a href="http://focuzed.io">Focized.io</a>
 
-A minimalist task and productivity tool focused on helping users stay in flow.
-It encourages deep work through clean UI, energy tracking, and simple task management.
+A minimalist task and productivity tool focused on helping **users stay in flow.**
+It encourages deep work through **clean UI, energy tracking, and simple task management.**
